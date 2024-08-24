@@ -29,7 +29,7 @@ To view the website, simply open the `index.html` file in your web browser.
 The website is organized into the following files and folders:
 
 * `index.html`: The main HTML file for the website
-* `styles.css`: The main CSS file for the website
+* `css/styles.css`: The main CSS file for the website
 * `images/`: A folder containing images used on the website
 * `fonts/`: A folder containing fonts used on the website
 
